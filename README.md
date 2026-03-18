@@ -1,6 +1,6 @@
-# OpenClaw Dashboard
+# KamiGit Dashboard
 
-A Next.js dashboard for monitoring your OpenClaw developer assistant.
+A Next.js dashboard for monitoring your KamiGit developer assistant.
 
 ## Features
 - 📊 Overview with stats and recent activity

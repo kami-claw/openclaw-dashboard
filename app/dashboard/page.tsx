@@ -188,7 +188,7 @@ export default function Dashboard() {
       display: 'flex', alignItems: 'center', justifyContent: 'center',
       minHeight: '100vh', flexDirection: 'column', gap: 16
     }}>
-      <div style={{ fontSize: 48, animation: 'pulse 1.5s infinite' }}>🦞</div>
+      <div style={{ fontSize: 48, animation: 'pulse 1.5s infinite' }}>⚔️</div>
       <div style={{ color: 'var(--accent)', fontSize: 14, fontFamily: 'Space Mono' }}>
         Loading dashboard...
       </div>
@@ -208,8 +208,8 @@ export default function Dashboard() {
         backdropFilter: 'blur(8px)'
       }}>
         <div style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
-          <span style={{ fontSize: 22 }}>🦞</span>
-          <span style={{ fontWeight: 800, fontSize: 17, color: 'var(--text)' }}>OpenClaw</span>
+          <span style={{ fontSize: 22 }}>⚔️</span>
+          <span style={{ fontWeight: 800, fontSize: 17, color: 'var(--text)' }}>KamiGit</span>
           <span style={{
             fontSize: 10, color: 'var(--accent)', fontFamily: 'Space Mono',
             background: '#00ff8820', padding: '3px 8px', borderRadius: 4,

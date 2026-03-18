@@ -2,7 +2,7 @@ import type { Metadata } from 'next'
 import '../styles/globals.css'
 
 export const metadata: Metadata = {
-  title: 'OpenClaw Dashboard',
+  title: 'KamiGit Dashboard',
   description: 'Developer Assistant Control Panel',
 }
 

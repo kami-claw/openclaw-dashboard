@@ -43,12 +43,12 @@ export default function LoginPage() {
       }}>
         {/* Logo */}
         <div style={{ textAlign: 'center', marginBottom: 40 }}>
-          <div style={{ fontSize: 52, marginBottom: 12 }}>🦞</div>
+          <div style={{ fontSize: 52, marginBottom: 12 }}>⚔️</div>
           <h1 style={{
             fontSize: 28, fontWeight: 800,
             color: 'var(--text)', fontFamily: 'Syne',
             letterSpacing: '-0.5px'
-          }}>OpenClaw</h1>
+          }}>KamiGit</h1>
           <p style={{
             color: 'var(--text2)', marginTop: 6,
             fontSize: 13, fontFamily: 'Space Mono'
@@ -137,7 +137,7 @@ export default function LoginPage() {
           color: 'var(--text2)', fontSize: 12,
           fontFamily: 'Space Mono'
         }}>
-          kami-claw · OpenClaw v2026
+          kami-claw · KamiGit v2026
         </p>
       </div>
     </div>
