@@ -30,3 +30,4 @@ Open http://localhost:3000
 # test
 # kamigit test
 # kamigit test
+# dashboard test
